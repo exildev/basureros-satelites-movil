@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Reporte.qml</file>
+        <file>images/linea.svg</file>
+        <file>PhotoCollection.qml</file>
+        <file>images/p23.jpg</file>
+        <file>PhotoCamera.qml</file>
+    </qresource>
+</RCC>
